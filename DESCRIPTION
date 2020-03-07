@@ -1,11 +1,12 @@
 Package: geoformattr
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Formats Geospatial data
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Anonymous
+Maintainer: Jasper <jaysha54@gmail.com>
+Imports: 
+Description: Separates geography POINT data to lon/lat. Mutates classes for df cbinds
 License: What license is it under?
 Encoding: UTF-8
-LazyData: true
+LazyData: FALSE
+RoxygenNote: 7.0.2.9000
